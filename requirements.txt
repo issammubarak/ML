@@ -1,3 +1,5 @@
+flask
+dill
 pandas
 numpy
 seaborn
@@ -6,4 +8,4 @@ ipykernel
 scikit_learn
 catboost
 xgboost
--e .
+#-e .
